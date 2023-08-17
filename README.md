@@ -1,5 +1,9 @@
 # Toyota Innovation Challenge
+This repositiory contains our team's code for the Toyota Motor Manufacturing Company (TMMC) Innovation Challenge.
 
-Our code for the Toyota Innovation Challenge
+## Our Approach
 
-Contributors :  [@Mevan Solanga](https://github.com/Mevan-Solanga) [@Karan Kapoor](https://github.com/k-kaps) [@Savyo Glyana]
+## Results
+
+## Team Members
+[@Mevan Solanga](https://github.com/Mevan-Solanga) [@Karan Kapoor](https://github.com/k-kaps) [@Savyo Glyana]
