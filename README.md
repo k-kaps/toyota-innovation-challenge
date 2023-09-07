@@ -8,4 +8,4 @@ This repositiory contains our team's code for the Toyota Motor Manufacturing Com
 ## Installation and Dependencies
 
 ## Team Members
-[@Mevan Solanga](https://github.com/Mevan-Solanga) [@Karan Kapoor](https://github.com/k-kaps) [@Savyo Glyana]
+[@Mevan Solanga](https://github.com/Mevan-Solanga) [@Karan Kapoor](https://github.com/k-kaps) [@Savyo Glyana](https://github.com/SavyoG)
